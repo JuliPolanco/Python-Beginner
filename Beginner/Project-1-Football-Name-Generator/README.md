@@ -1,4 +1,4 @@
-# Football Name Generator
+# Football Team Name Generator
 - 👋 Hi, I'm @JuliPolanco
 - 👀 I'm interested in learning Python to make data working effectively and easily visual.
 - 🌱 I’m currently learning Python with Angela Yu's [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
