@@ -16,6 +16,5 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 | 3   | Pizza Delivery Calculator             | Starting with Conditionals                                                                              | [Repo](https://github.com/JuliPolanco/The-Path-of-the-Python/blob/f41978f66f6a23e0293a999a1f839f993373e112/Beginner/Project-3-Pizza-Delivery-Calculator/main.py)       
 | 4   | Treasure Island            | Conditionals refresh                                                                               | [Repo](https://github.com/JuliPolanco/Python-Beginner/blob/a54aaf083cbd8e2e0ce583462f4a49c878a948e9/Beginner/Project-4-Treasure-Island/main.py)
 | 5   | Rock Papper Scissors Game           | Starting with List and Random module                                                                              | [Repo](https://github.com/JuliPolanco/Python-Beginner/blob/f8a5f7b583e333c20abbfb768274fd049cc5de63/Beginner/Project-5-Rock-Paper-Scissors/main.py) 
-
-
+| 6   | Password Generator          | List and Random module refresh                                                                              | [Repo](https://github.com/JuliPolanco/Python-Beginner/blob/2f638f197096d9dec3106af536b407f26a3fd796/Beginner/Project-6-Password-Generator/main.py)
 
