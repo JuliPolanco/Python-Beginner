@@ -1,6 +1,12 @@
 #  Secret Auction
 
+## Bug and Fixes
 **March 8th, 2023**
+- Logo is now imported from the Logo source file
+- Clear Function is now a function that prints 50 blank spaces before the name of the next person that bids
+
+______________________________________________________________________________________________________________________________________________________________
+
 
 - 👋 Hi, I'm @JuliPolanco
 - 👀 I'm interested in learning Python to make data working effectively and easily visual.
