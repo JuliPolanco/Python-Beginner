@@ -1,5 +1,10 @@
-from replit import clear
-from art import logo
+
+from logo import logo
+
+
+def clear():  # Prints 50 blank lines
+    print("\n" * 50)
+  
 
 print(logo)
 
