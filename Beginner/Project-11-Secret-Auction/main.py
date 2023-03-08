@@ -1,7 +1,8 @@
-from replit import clear
-from art import logo
+from logo import logo
 
 print(logo)
+
+- Clear Function is now a function that prints 50 blank spaces before the name of the next person that bids
 
 bids = {}
 bidding_finish = False
