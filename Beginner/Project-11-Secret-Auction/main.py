@@ -2,7 +2,9 @@ from logo import logo
 
 print(logo)
 
-- Clear Function is now a function that prints 50 blank spaces before the name of the next person that bids
+
+def clear():  # Prints 50 blank lines
+    print("\n" * 50)
 
 bids = {}
 bidding_finish = False
