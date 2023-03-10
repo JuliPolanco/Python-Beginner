@@ -1,5 +1,5 @@
 from random import randint
-from logoo import logo
+from logo import logo
 
 EASY_LEVEL_TURNS = 10
 HARD_LEVEL_TURNS = 5
