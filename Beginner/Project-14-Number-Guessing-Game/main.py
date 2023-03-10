@@ -22,7 +22,7 @@ def set_difficulty():
         return HARD_LEVEL_TURNS
 
 def game():
-    # print(logo)
+    print(logo)
     print("Welcome to guess the number!")
     print("I am thinking in a number between 1 and 100")
     answer = randint(1, 100)
